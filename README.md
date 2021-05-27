@@ -1,3 +1,4 @@
+⚠️ Feel free to download source code and change it by your own.
 <h2>☑️ What is this app about?</h2>
 <p>Nice Card app where we can hit the deal button to be the changed the card faces randomly and gives away score.</p>
 <h2>☑️ What have I learned?</h2>
